@@ -1,0 +1,4 @@
+Alphabet: АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ/ type: <class 'str'>
+Text: ЗДЗБЁЫЕЗАЩ/ type: <class 'str'>
+Key: МАСВ/ type: <class 'str'>
+ЗВЕРИНЕДОМ

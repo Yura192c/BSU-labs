@@ -1,0 +1,4 @@
+Alphabet: АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ/ type: <class 'str'>
+Text: МАНДАРИН/ type: <class 'str'>
+Key: ФЛОТ/ type: <class 'str'>
+ДМАННАРИ
